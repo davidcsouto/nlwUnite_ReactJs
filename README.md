@@ -1,3 +1,8 @@
+# Para que o projeto funcione corretamente, realizem um clone do seguinte repositório:
+
+- https://github.com/rocketseat-education/nlw-unite-nodejs
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
